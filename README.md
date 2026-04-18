@@ -1,19 +1,19 @@
 # Smart Room Environmental Monitoring and Alert System
 
-## Project Overview
+Project Overview
 
 The **Smart Room Environmental Monitoring and Alert System** is an Arduino-based embedded solution designed to automate room climate and lighting conditions. By integrating temperature and light sensors, the system provides real-time visual and audible feedback to ensure user comfort and safety.
 
 ---
 
-## 🔗 Circuit Diagram
+Circuit Diagram
 
 > View the full interactive circuit on TinkerCAD:
 > **[▶ Open TinkerCAD Circuit Diagram](https://www.tinkercad.com/things/7KfILeUbDau-milly-project-12/editel?sharecode=6ONXWdXN2-Zshqihs7_I0OphS1aaYs8EPY3IrLaCKxk)**
 
 ---
 
-## ✨ Features
+Features
 
 - **Automated Climate Alert:** Monitors temperature and triggers a visual (Red LED) and audible (Piezo Buzzer) alarm if levels exceed a set threshold.
 - **Smart Lighting:** Automatically activates room lighting (Yellow LED) when ambient light levels drop below a specific intensity.
