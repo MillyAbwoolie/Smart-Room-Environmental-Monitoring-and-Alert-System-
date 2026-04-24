@@ -21,7 +21,7 @@ void setup() {
   
   lcd.begin(16, 2);
   lcd.print("Smart Room Active");
-  delay(1500);
+  delay(2000);
   lcd.clear();
   
   Serial.begin(9600);
